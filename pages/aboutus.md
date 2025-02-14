@@ -6,9 +6,7 @@ title: About Us
 ---
 
 
-From Assets/Img
-![Alt Text](/assets/img/civica.png "Wowin")
-<img src="../assets/img/civica.png" width="100%">
+<img src="../assets/img/civica.JPG" width="100%">
 
 Hi everyone!
 CIVICA Echoes stems from the desire of a group of students from Bocconi University
