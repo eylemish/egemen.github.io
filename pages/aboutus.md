@@ -1,4 +1,3 @@
-From Assets/Img
 ---
 layout: Post
 permalink: /aboutus
@@ -7,8 +6,9 @@ title: About Us
 ---
 
 
-
+From Assets/Img
 ![Alt Text](/assets/img/civica.png "Wowin")
+
 Hi everyone!
 CIVICA Echoes stems from the desire of a group of students from Bocconi University
 and Sciences Po to generate a real impact, helping women around the world and
