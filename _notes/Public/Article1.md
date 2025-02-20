@@ -1,7 +1,5 @@
 ---
-title : Trump vs. Reproductive Rights: The Real Cost of Anti-Abortion Policies
-Nergis Inal 
-
+title : 1.Article
 feed: show
 date : 15-04-2024
 ---
