@@ -1,7 +1,10 @@
 ---
-title : 1.Article
+title: "Trump vs. Reproductive Rights: The Real Cost of Anti-Abortion Policies"
+author: "Nergis Inal"
+
 feed: show
-date : 15-04-2024
+date: 15-04-2024
+
 ---
 
 <!-- This is the first article.
