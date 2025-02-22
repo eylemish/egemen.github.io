@@ -33,26 +33,34 @@ Trump’s anti-abortion policies were never just about restricting access to a m
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 **Bibliography** 
+<p>&nbsp;</p>
 ACLU (2024) Trump on Abortion, available at: https://www.aclu.org/trump-on-abortion [Accessed 12 Feb. 2025].
+
 American College of Obstetricians and Gynecologists (2024) The Leading Cause of Death for Pregnant Women in the U.S., available at: https://www.acog.org [Accessed 12 Feb. 2025].
+
 Amnesty International (2023) El Salvador’s Abortion Ban: A Human Rights Crisis, available at: https://www.amnesty.org [Accessed 12 Feb. 2025].
+
 ANSIRH (2020) The Turnaway Study: Ten Years, a Thousand Women, and the Consequences of Having—or Being Denied—an Abortion, available at: https://www.ansirh.org [Accessed 12 Feb. 2025].
+
 CNN (2022) Texas woman almost dies because she couldn't get an abortion, available at: https://www.cnn.com/2022/11/16/health/abortion-texas-sepsis/index.html [Accessed 15 Feb. 2025].
+
 Guttmacher Institute (2024) The Impact of Dobbs v. Jackson on Reproductive Rights, available at: https://www.guttmacher.org [Accessed 12 Feb. 2025].
+
 Kaiser Family Foundation (2024) Maternal Mortality and Abortion Bans: The Data Behind the Crisis, available at: https://www.kff.org [Accessed 12 Feb. 2025].
+
 Planned Parenthood (2024) How Losing Abortion Access Impacts Women’s Health, available at: https://www.plannedparenthood.org [Accessed 12 Feb. 2025].
+
 Reproductive Rights (2024) Trump Presidency Poses Grave Threats to Reproductive Freedoms, available at: https://reproductiverights.org [Accessed 12 Feb. 2025].
+
 The 19th News (2025) How Trump’s Supreme Court Reshaped Abortion Access in America, available at: https://19thnews.org [Accessed 12 Feb. 2025].
+
 The Guardian (2024) Texas woman died after being denied miscarriage care due to abortion ban, available at: https://www.theguardian.com/us-news/2024/oct/30/texas-woman-death-abortion-ban-miscarriage [Accessed 15 Feb. 2025].
+
 The Guardian (2024) Abortion Restrictions and Rising Femicide Rates, available at: https://www.theguardian.com [Accessed 12 Feb. 2025].
+
 Tulane University School of Public Health (2024) Abortion Bans and the Link to Intimate Partner Homicide, available at: https://sph.tulane.edu [Accessed 12 Feb. 2025].
 United Nations (2022) Women’s Rights and Bodily Autonomy: A Global Perspective, available at: https://www.un.org [Accessed 12 Feb. 2025].
+
 World Health Organization (2022) The Impact of Abortion Restrictions on Maternal Mortality, available at: https://www.who.int [Accessed 12 Feb. 2025].
 
