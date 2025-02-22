@@ -17,11 +17,10 @@ Funded by CIVICA’s brand-new Student Engagement Fund, our project is dedicated
 
 ## What is CIVICA?
 
-CIVICA – The European University of Social Sciences unites ten leading European higher education institutions in the social sciences, humanities, business management and public policy, with a total of 72,000 students & PhDs and 13,000 academic staff.
+<a href="https://www.civica.eu/who-we-are/about-civica/">CIVICA</a> – The European University of Social Sciences unites ten leading European higher education institutions in the social sciences, humanities, business management and public policy, with a total of 72,000 students & PhDs and 13,000 academic staff.
 
 ## What is SEF? 
-
-The Student Engagement Fund (SEF) is a mini-grant funding scheme aimed at supporting student-led joint initiatives within the CIVICA alliance. It aims to foster cross-campus collaboration among students and student associations from different disciplines and backgrounds in tackling the important issues facing Europe today, and to further enhance the students’ experience within the alliance. 
+<a href="https://www.civica.eu/who-we-are/civica-ambassadors/student-initiatives/student-engagement-fund/">The Student Engagement Fund (SEF)</a> is a mini-grant funding scheme aimed at supporting student-led joint initiatives within the CIVICA alliance. It aims to foster cross-campus collaboration among students and student associations from different disciplines and backgrounds in tackling the important issues facing Europe today, and to further enhance the students’ experience within the alliance. 
 
 
 ## Disclaimer
