@@ -29,13 +29,17 @@ With Dobbs v. Jackson overturning Roe v. Wade, the fight for reproductive rights
 
 Trump’s anti-abortion policies were never just about restricting access to a medical procedure. They were part of a broader strategy to limit women’s autonomy, reinforce traditional gender roles, and weaken protections for gender equality. His administration’s actions, whether through court appointments, funding cuts, or global policy changes, left millions of women with fewer rights, fewer healthcare options, and greater vulnerability to economic instability and gender-based violence. The future of reproductive rights is far from settled. With anti-abortion activists emboldened, legal battles continuing, and conservative politicians pushing for a national abortion ban, the fight for bodily autonomy is still being waged. The past few years have proven that reproductive rights can be stripped away in an instant. Whether they can be permanently restored depends on sustained activism, legal challenges, and political will. 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-
-
-
-
-
-Bibliography 
+**Bibliography** 
 ACLU (2024) Trump on Abortion, available at: https://www.aclu.org/trump-on-abortion [Accessed 12 Feb. 2025].
 American College of Obstetricians and Gynecologists (2024) The Leading Cause of Death for Pregnant Women in the U.S., available at: https://www.acog.org [Accessed 12 Feb. 2025].
 Amnesty International (2023) El Salvador’s Abortion Ban: A Human Rights Crisis, available at: https://www.amnesty.org [Accessed 12 Feb. 2025].
