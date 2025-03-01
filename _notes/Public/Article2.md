@@ -1,5 +1,5 @@
 ---
-title: "Women's Health and Endometriosis When Medicine Wasn't Made for You"
+title: "Women's Health and Endometriosis: When Medicine Wasn't Made for You by Gabriela Molina"
 
 feed: show
 date: 01-03-2025
