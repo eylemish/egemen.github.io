@@ -13,12 +13,19 @@ The Yellow Wallpaper tells the story of a woman, who probably would be diagnosed
 
 
 *I think that woman gets out in the daytime!*
+
 *And I’ll tell you why—privately—I’ve seen her!*
+
 *I can see her out of every one of my windows!*
+
 *It is the same woman, I know, for she is always creeping, and most women do not creep by daylight.*
+
 *I see her on that long shaded lane, creeping up and down. I see her in those dark grape arbors, creeping all around the garden.*
+
 *I see her on that long road under the trees, creeping along, and when a carriage comes she hides under the blackberry vines.*
+
 *I don’t blame her a bit. It must be very humiliating to be caught creeping by daylight!*
+
 *I always lock the door when I creep by daylight.*
  
 Back in the 19th century, domestic spaces were known as maritally significant safe spheres but have been very well abused to use as tools of oppression. The narrator expresses her discontentment with her entrapment, yet, is not taken as a reliable source which is leading to her psychological breakdown culminating parallels between slow vanishing into madness and acceptance of captivity. By the end we can see that even if she breaks out of the “wallpaper” she couldn’t break out of the inherited socio-cultural self-conditioning. This heartbreakingly captivating story highlights how domestic spaces are used as forms of control for women whose intellect and personality extend beyond any type of forced wall, whose desire is to get help if needed but to choose where they belong to on their own.  
