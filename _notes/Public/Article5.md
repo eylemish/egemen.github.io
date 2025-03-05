@@ -124,7 +124,7 @@ At the time, my female friends fought with their male friends, boyfriends, and p
 
 *After all, if they kill me, will you say the same?*
 
-# *Remember, your 'house' is not on the edge. In your 'house,' there are two daughters.*
+## *Remember, your 'house' is not on the edge. In your 'house,' there are two daughters.*
 *(A Russian idiom—‘house is on the edge’—meaning ‘it’s not my business.’)*
 
 *Please be the example of a father I tell everyone about with pride and love. The dad who was a 'real man.' I grew up like this thanks to you—a woman: educated, confident. You never stopped my interests and always supported my endeavors. I never heard from you that my future is marriage or a place at the stove. You gave me the opportunity to talk about politics, science, business, football, and other so-called 'male' topics, and you never shamed me for it. You never shirked responsibilities and always did house chores. That alone is more than 90% of men in Kazakhstan. And from what I know personally, you are 99% better.*
@@ -140,7 +140,7 @@ At the time, my female friends fought with their male friends, boyfriends, and p
 
 *If you need to talk, you have me and Alua—two girls, smart, knowledgeable, and fighting for the 'New Kazakhstan,' in which we and our daughters can live peacefully and happily. Again, these are our rights. My rights. THE RIGHTS OF YOUR CHILDREN.*
 
-* Material for study: [links]" * 
+*Material for study: [links]"* 
 
 It is frustrating to talk about it over and over again. Being both a woman and an educator is a hard role. Women often dismiss bringing up the topic of gender violence by saying  “It’s not my place to educate,” or “ If he wanted to learn, he would.” Unfortunately, the world is not that simple. Many don’t care and many don’t want to. This doesn't mean that talking about it is pointless. Isolating conversations to only the interested parties further divides us into different echo chambers.
 
