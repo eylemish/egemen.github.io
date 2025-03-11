@@ -6,7 +6,7 @@ date: 06-03-2025
 
 ---
 
-*I have felt shame. I know this feeling.*
+*I have felt shame. I know this feeling.*  
 Insidious, pounding, discomforting. The weight of an elephant on my chest, crushing my rib cage. The tension of a prey in every muscle, standing straight, scrutinizing the unwelcoming surroundings.
 
 *I have felt shame. I know why it happened.*
@@ -27,11 +27,12 @@ I felt shame when the people I introduced didn’t like each other.
 
 I even felt shame because of the barbaric actions of humankind: wars, genocides, and inequality.
 I guess, in a way, I feel responsible for others, even if their actions are out of my control: a little talking cricket sitting right by my ear whispers to my nervous system, “STIFFEN! TENSE UP! MAYDAY, I REPEAT, MAYDAY.”
-I have felt shame after being assaulted, and I do not know why it happened.
+*I have felt shame after being assaulted, and I do not know why it happened.*
 I have felt shame even when the causal link between event and reaction is blurrier.
 I can try and rationalize the feeling: human modesty, innate decency. Yet, it doesn’t add up.
 I understand when shame is a byproduct of my own shit actions, or even other people’s shit actions that reflected on my persona.
-But why does my brain suggest shame as an immediate reaction to wrongdoing done TO me? By someone whose primary intent was to take advantage of my body, an act so vile. I would understand rage, even sadness, but shame?
+But why does my brain suggest shame as an immediate reaction to wrongdoing done TO me? By someone whose primary intent was to take advantage of my body, an act so vile. I would understand rage, even sadness, but 
+# shame?
 Why do I feel the need to wash other people’s sins off my skin? Scratch my legs so hard it hurts. I wish to molt, leaving my violated body behind, an undesired cocoon.
 Maybe it is just like when I fell in front of all those people: I must have committed a misstep.
 Yes, that is it.
