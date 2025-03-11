@@ -7,7 +7,6 @@ date: 06-03-2025
 ---
 
 *I have felt shame. I know this feeling.*
-
 Insidious, pounding, discomforting. The weight of an elephant on my chest, crushing my rib cage. The tension of a prey in every muscle, standing straight, scrutinizing the unwelcoming surroundings.
 
 *I have felt shame. I know why it happened.*
