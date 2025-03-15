@@ -17,7 +17,7 @@ Intimement liée à cela, la question de l’impact de cette violence sur l’en
 
 Avant de commencer, il est important de noter que selon l’article 3 de la Convention d’Istanbul, signée en 2011, la violence domestique désigne « tous les actes de violence physique, sexuelle, psychologique ou économique qui surviennent au sein de la famille ou du foyer ou entre des anciens ou actuels conjoints ou partenaires, indépendamment du fait que l’auteur de l’infraction partage ou a partagé le même domicile que la victime ». Celle-ci comprend la violence physique, psychologique, sociale, sexuelle, ou économique, ou encore le harcèlement obsessionnel. La violence peut être ponctuelle et visible, mais elle peut également être un contrôle durable et systématique, marqué par une relation abusive asymétrique. Elle s’inscrit alors dans “le cycle de la violence”, construit en quatre étapes (tension, crise, justification, lune de miel) ; un cercle vicieux dont il est difficile pour la victime de s’extraire. 
 
-<img src="/Users/ezgiyircali/egemen.github.io/assets/img/Screenshot 2025-03-15 at 16.29.49.png" alt="Alt Text" title="Title Here" width="300">
+<img src="assets/img/Screenshot 2025-03-15 at 16.29.49.png" alt="Alt Text" title="Title Here" width="300">
 
 SOURCE : https://www.amoursansviolence.fr/le-cycle-des-violences/
 
@@ -44,7 +44,7 @@ Par conséquent, il est important que la victime prenne conscience de ces sentim
 
 Sur le plan international, l’ONU engage les États membres signataires de la Convention pour l’élimination de toutes les formes de discriminations à l’égard des femmes (CEDEF) à rendre compte régulièrement des progrès des législations et des efforts mis en œuvre pour lutter contre ces violences.  
 
-<img src="/Users/ezgiyircali/egemen.github.io/assets/img/livret-cide.jpg.png" alt="Alt Text" title="Title Here" width="300">
+<img src="assets/img/livret-cide.jpg.png" title="Title Here" width="300">
 
 
 **SOURCE :**  https://boutique.ldh-france.org/publications/127-livret-cide.html
