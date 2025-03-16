@@ -1,7 +1,7 @@
 ---
 title: "Video Try"
 
-feed: show
+feed: hide
 date: 16-03-2025
 
 ---
