@@ -1,7 +1,7 @@
 ---
-title: "Video Try"
+title: "Interview 1"
 
-feed: hide
+feed: show
 date: 16-03-2025
 
 ---
