@@ -72,22 +72,22 @@
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
-        <!--
-        This code is to show other pages (note under collection) as Backlink. 
-        Disabled as I don't see a need for this right now. 
+        
+        <!-- This code is to show other pages (note under collection) as Backlink. 
+        Disabled as I don't see a need for this right now.  -->
 
-        {%- for note in site.pages -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains wiki_link_title -%}
-            <div class="related-group"><a href="{{note.url}}">
-                <h6>{{ note.title }}</h6>
-                <p class="excerpt" style="margin: 0px;">{{ note.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 100 }}</p>
+        {%- for video in site.videos -%}
+        {%- if video.url != page.url -%}
+            {%- if video.content contains wiki_link_title -%}
+            <div class="related-group"><a href="{{video.url}}">
+                <h6>{{ video.title }}</h6>
+                <p class="excerpt" style="margin: 0px;">{{ video.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 100 }}</p>
             </a></div>
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
 
-        -->
+       
     </div>
     <br/>
 </div>
