@@ -69,9 +69,6 @@ collections:
     notes:
       output: true
       permalink: /note/:title
-    videos:
-      output: true
-      permalink: /video/:title
 
 markdown: kramdown
 
@@ -99,12 +96,6 @@ defaults:
     values:
       layout: Post
       content-type: notes
-    - scope:
-      path: ""
-      type: videos
-    values:
-      layout: Video
-      content-type: videos
 
 
 # Exclude from processing.
