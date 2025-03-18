@@ -1,7 +1,7 @@
 ---
 title: "Interview 1"
 
-feed: show
+feed: hide
 date: 16-03-2025
 
 ---
