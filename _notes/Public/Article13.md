@@ -11,16 +11,16 @@ Pauline Colombani-Sorini
 
 La Maladie Silencieuse : genre, intersectionnalité et troubles du comportement alimentaire en Europe
 
-I weigh the sea I weigh the storm
-I weigh a thousand stories long.
-I weigh my mother's fortitude and my father's eyes
-I weigh the way they look at me with pride
-I weigh strength and fearless and the warrior in me.
-I weigh all the pain and trauma that made me see that I have more galaxies inside me than tragedies.
-We all weigh joys and darkness and goodness and sin you see, we are infinite within this skin we are in.
-So when they ask you what you weigh you don't need to look down at any scale.
-Instead, simply tell them the truth, tell them how you weigh whole universes
-and storms and scars and stories too.
+*I weigh the sea I weigh the storm*  
+*I weigh a thousand stories long.*  
+*I weigh my mother's fortitude and my father's eyes*  
+*I weigh the way they look at me with pride*  
+*I weigh strength and fearless and the warrior in me.*  
+*I weigh all the pain and trauma that made me see that I have more galaxies inside me than tragedies.*  
+*We all weigh joys and darkness and goodness and sin you see, we are infinite within this skin we are in.*  
+*So when they ask you what you weigh you don't need to look down at any scale.*  
+*Instead, simply tell them the truth, tell them how you weigh whole universes
+and storms and scars and stories too.*  
 
 Issu de la poète indo-irlandaise Nikita Gill
 
