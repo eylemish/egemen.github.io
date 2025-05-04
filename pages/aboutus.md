@@ -27,3 +27,8 @@ Funded by CIVICA’s brand-new Student Engagement Fund, our project is dedicated
 
 This is a CIVICA Student Engagement Fund project, co-funded by the European Union.
 Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of Bocconi University, Sciences Po [ettc] and of the CIVICA alliance or European Union or the European Commission. 
+
+
+<img src="assets/img/image.jpeg" alt="Alt Text" title="Title Here" width="300">
+<img src="assets/img/logo-CIVICA-baseline_RGB.png" alt="Alt Text" title="Title Here" width="300">
+
