@@ -26,15 +26,15 @@ Issu de la poète indo-irlandaise Nikita Gill
 
 
 
-Blurb :  Quel déchirement d’entendre encore des mères conter à leurs filles : « Il faut souffrir pour être belle. »
+Blurb :  *Quel déchirement d’entendre encore des mères conter à leurs filles : « Il faut souffrir pour être belle. »*
 
-Je vous parle d’une maladie silencieuse qui détruit. Je vous parle de comment 20 millions de personnes dans l’Union européenne se détruisent chaque jour. Je vous parle aussi des destructions à venir, et de ce que chacun d’entre nous, à son niveau, peut faire. À travers ces lignes, je vous confie mes pensées les plus intimes, mes démons, mes colères, mes doutes, mais aussi les pistes et solutions qui, au fil des années, se sont imposées à moi, nourries par mes réflexions et mes combats intérieurs.
+Je vous parle d’une maladie silencieuse qui détruit. Je vous parle de comment 20 millions de personnes dans l’Union européenne se détruisent chaque jour. Je vous parle aussi des destructions à venir, et de ce que chacun d’entre nous, à son niveau, peut faire. À travers ces lignes, je vous confie mes pensées les plus intimes, mes démons, mes colères, mes doutes, mais aussi les pistes et solutions qui, au fil des années, se sont imposées à moi, nourries par mes réflexions et mes combats intérieurs.  
 Je vous parle des troubles du comportement alimentaire.
 
 
 
 
-Merci à Lauren Malka et Salma pour vos mots
+*Merci à Lauren Malka et Salma pour vos mots*
 
 
 
@@ -42,10 +42,10 @@ Merci à Lauren Malka et Salma pour vos mots
 
 
 
-Dans l’Union européenne, une maladie touche une personne sur 20 - soit 20 millions de personnes. Recouvrant pas moins de neuf troubles distincts, 80% de ses victimes sont des femmes, avec un pic d’apparition chez les 13-14 ans et les 16-17 ans.
-Parmi les cas pris en charge à l’adolescence, seuls 50% guérissent.
-Elle est la deuxième cause de mortalité prématurée chez les 15-24 ans.
-Elle est là, pourtant elle est silencieuse.
+Dans l’Union européenne, une maladie touche une personne sur 20 - soit 20 millions de personnes. Recouvrant pas moins de neuf troubles distincts, 80% de ses victimes sont des femmes, avec un pic d’apparition chez les 13-14 ans et les 16-17 ans.  
+Parmi les cas pris en charge à l’adolescence, seuls 50% guérissent.  
+Elle est la deuxième cause de mortalité prématurée chez les 15-24 ans.  
+Elle est là, pourtant elle est silencieuse.  
 
 Sauriez-vous la nommer?
 
@@ -59,7 +59,7 @@ TCA.
 
 TCA.
 
-Troubles du comportement alimentaire.
+*Troubles du comportement alimentaire.*
 
 Peut-être ce terme est-il plus familier. Peut-être ignorez-vous ce que recouvre cet acronyme:
 
@@ -80,38 +80,38 @@ Potomanie…
 
 Les troubles des conduites alimentaires (TCA) sont définis par l'existence de perturbations significatives et durables de la prise alimentaire. Toutes leurs particularités, toutes leurs ignominies et tous leurs troubles. Car s’il y a bien un mot que l’opinion publique européenne peine à associer aux TCA, c’est le mot « maladie ». Cette affirmation qui semble stricte envers nos institutions, nos proches, je l’affirme toutefois; quand on passe sous leurs jougs, on ne peut que ressentir un manque d’empathie inhérent à notre environnement. Par ces lignes, j’aimerais pouvoir rédiger les pensées, les démons, les questionnements, les colères, les idées et les solutions que mes introspections sur ce sujet m’évoquent depuis plusieurs années. Alors n’y voyez pas une analyse médicale, mais plutôt une expertise profane, sociologique, politique et raciale de la maladie qui, au mieux, bousculera quelques opinions tranchées, et au pire, vous donnera les clés pour mieux la comprendre.
 
-Démanteler les clichés et les opinions tranchées
+## Démanteler les clichés et les opinions tranchées
 
-Ma première rencontre concrète avec les TCA s’est faite au lycée, lorsqu’un(e) proche a été affecté(e). Ignorante à l’époque que ce ne serait que le premier cas d’une longue série, je me revois dire et penser ce que j’aurais réprouvé entendre deux ans plus tard - prisonnière d’une narration biaisée.
-En grandissant, je n’avais jamais appris ce que les TCA signifiaient ou du moins, comme la plupart de l’opinion publique, on ne me parlait que d’anorexie mentale, souvent réduite à un simple régime amaigrissant ou à un trouble digestif, voire à une obsession pour le poids, la minceur et les calories.
-Je n’étais pas au courant des symptômes associés, et ignorais même ses liens avec d’autres troubles, comme l’association possible entre anorexie mentale, boulimie et hyperactivité. Les victimes le savent : lorsqu’un TCA nous attaque, mettre des mots sur ce qui se passe est un travail tyrannique qu’elles refusent, inconsciemment, d’entreprendre.
-Tout simplement parce que son diagnostic sur leur étiopathogénie se limite à ces injonctions culpabilisantes : « Pourquoi ne mange-t-elle pas plus? »
+Ma première rencontre concrète avec les TCA s’est faite au lycée, lorsqu’un(e) proche a été affecté(e). Ignorante à l’époque que ce ne serait que le premier cas d’une longue série, je me revois dire et penser ce que j’aurais réprouvé entendre deux ans plus tard - prisonnière d’une narration biaisée.  
+En grandissant, je n’avais jamais appris ce que les TCA signifiaient ou du moins, comme la plupart de l’opinion publique, on ne me parlait que d’anorexie mentale, souvent réduite à un simple régime amaigrissant ou à un trouble digestif, voire à une obsession pour le poids, la minceur et les calories.  
+Je n’étais pas au courant des symptômes associés, et ignorais même ses liens avec d’autres troubles, comme l’association possible entre anorexie mentale, boulimie et hyperactivité. Les victimes le savent : lorsqu’un TCA nous attaque, mettre des mots sur ce qui se passe est un travail tyrannique qu’elles refusent, inconsciemment, d’entreprendre.  
+Tout simplement parce que son diagnostic sur leur étiopathogénie se limite à ces injonctions culpabilisantes : *« Pourquoi ne mange-t-elle pas plus? »*
 
 Ne vous y trompez pas, il en existe bien d’autres auxquelles - à l’époque - je n’avais pas encore pensé :
 
-« C’est un problème de filles riches. »
+*« C’est un problème de filles riches. »*
 
-« C’est une question de vanité. »
+*« C’est une question de vanité. »*
 
-« Les hommes ne souffrent pas de TCA. »
+*« Les hommes ne souffrent pas de TCA. »*
 
-« On peut toujours repérer quelqu’un qui a des TCA. »
+*« On peut toujours repérer quelqu’un qui a des TCA. »*
 
-« Les TCA, c’est juste une phase d’adolescence. »
+*« Les TCA, c’est juste une phase d’adolescence. »*
 
 Il n’est pas question ici de dire qu’il n’y a pas une part de vérité dans certaines de ces énumérations. Pourtant, leur caractère simpliste et radical ne peut que vous alerter et, en réalité, personne ne pourrait réellement vous en blâmer. Dans les faits, très peu de sensibilisation à l’échelle locale, régionale ou européenne est mise en place pour une maladie qui touche pourtant une personne sur 20 dans l’Union européenne. Ce serait de mauvaise foi de ma part, toutefois, d’affirmer que rien n’a été entrepris récemment : le problème a déjà été discuté notamment à l’échelle de l’Union européenne par la députée Stefania Zambelli (membre du parti d'extrême droite Identité et Démocratie au Parlement) lors d’une question prioritaire en 2021. La Commission s’était alors engagée à améliorer la santé et le bien-être des groupes vulnérables. Pourtant, celle-ci ne collecte pas de données spécifiques sur les troubles du comportement alimentaire et avait déclaré ne pas prévoir de promotion des campagnes d'information ciblant les jeunes. Le travail de fond est alors délaissé aux associations spécialisées : la Fédération Française Anorexie Boulimie (FFAB) ; l'Associazione per lo studio e la ricerca sull'anoressia, la bulimia e l’obesità ; Beat Eating Disorders (UK)…
 
-Malgré leur travail important, une certaine ignorance générale persiste, rendant plus que jamais nécessaire le démantèlement des préjugés expliqués ci-dessus.
-Non, il ne suffit pas de manger plus.
-Non, les TCA ne touchent pas que les femmes ou les filles riches et peuvent affecter n’importe quel milieu social. La gauche ne l’adresse pas assez, alors que c’est une maladie qui touche plutôt une minorité et qui présente des risques d’intersectionnalité (milieu social, couleur de peau, cadre familial…). Les rapports sociaux façonnent ces troubles, bastion invisible d’un patriarcat qui affecte les femmes comme les hommes, et où la nourriture devient un lieu d’expression politique et social.
-Non, les TCA ne sont pas une question de vanité. Ils impliquent des mécanismes psychiques complexes et nécessitent un accompagnement médical, psychologique et nutritionnel important qui peut s’étaler sur plusieurs années.
-Si les hommes sont moins touchés que les femmes (l’anorexie mentale touchant entre 0,9 et 1,5 % des femmes et 0,2 à 0,3 % des hommes), ils en sont tout de même atteints. Cependant, le fait que les hommes sont généralement moins touchés, rend les TCA masculins sous-diagnostiqués en raison des stéréotypes et d’un manque de sensibilisation.
-Non, les TCA ne sont pas toujours visibles physiquement.
-Et ce n’est sûrement pas une phase.
-C’est un sujet compliqué, détestable, déformée et mal compris, en particulier dans la culture française. Si un garçon mange beaucoup, on dira qu’il en a besoin pour se dépenser, tandis qu’une fille sera qualifiée de gourmande. Ou alors, elle est perçue comme raffinée, saine, et mange peu ou « bien ». Son rapport peut être ritualisé comme déséquilibré, restrictif comme exagéré, confortant comme inquiet…
-À ce sujet, l’autrice, journaliste indépendante et podcasteuse française Lauren Malka a récemment publié son ouvrage Mangeuses : histoire de celles qui dévorent, savourent ou se privent à l’excès, aux éditions Les Pérégrines.  À la question : « Quels facteurs, selon vous, expliquent la hausse des troubles du comportement alimentaire en Europe, notamment chez les jeunes femmes ces dernières années ? », elle m’a répondu :
+Malgré leur travail important, une certaine ignorance générale persiste, rendant plus que jamais nécessaire le démantèlement des préjugés expliqués ci-dessus.  
+*Non*, il ne suffit pas de manger plus.  
+*Non*, les TCA ne touchent pas que les femmes ou les filles riches et peuvent affecter n’importe quel milieu social. La gauche ne l’adresse pas assez, alors que c’est une maladie qui touche plutôt une minorité et qui présente des risques d’intersectionnalité (milieu social, couleur de peau, cadre familial…). Les rapports sociaux façonnent ces troubles, bastion invisible d’un patriarcat qui affecte les femmes comme les hommes, et où la nourriture devient un lieu d’expression politique et social.  
+*Non*, les TCA ne sont pas une question de vanité. Ils impliquent des mécanismes psychiques complexes et nécessitent un accompagnement médical, psychologique et nutritionnel important qui peut s’étaler sur plusieurs années.  
+Si les hommes sont moins touchés que les femmes (l’anorexie mentale touchant entre 0,9 et 1,5 % des femmes et 0,2 à 0,3 % des hommes), ils en sont tout de même atteints. Cependant, le fait que les hommes sont généralement moins touchés, rend les TCA masculins sous-diagnostiqués en raison des stéréotypes et d’un manque de sensibilisation.  
+*Non*, les TCA ne sont pas toujours visibles physiquement.  
+Et ce n’est sûrement pas une phase.  
+C’est un sujet compliqué, détestable, déformée et mal compris, en particulier dans la culture française. Si un garçon mange beaucoup, on dira qu’il en a besoin pour se dépenser, tandis qu’une fille sera qualifiée de gourmande. Ou alors, elle est perçue comme raffinée, saine, et mange peu ou « bien ». Son rapport peut être ritualisé comme déséquilibré, restrictif comme exagéré, confortant comme inquiet…  
+À ce sujet, l’autrice, journaliste indépendante et podcasteuse française Lauren Malka a récemment publié son ouvrage *Mangeuses : histoire de celles qui dévorent, savourent ou se privent à l’excès*, aux éditions Les Pérégrines.  À la question : « Quels facteurs, selon vous, expliquent la hausse des troubles du comportement alimentaire en Europe, notamment chez les jeunes femmes ces dernières années ? », elle m’a répondu :
 
-"Si vous avez repéré des chiffres qui documentent une hausse des troubles des conduites alimentaires en Europe, je pense que cela s'explique notamment par une meilleure connaissance de ces troubles et une capacité des jeunes femmes, surtout à s'auto-diagnostiquer plus facilement qu'auparavant, avec des connaissances plus précises sur la santé mentale et moins de tabou. Ce qui amène les troubles des conduites alimentaires à affecter si souvent les femmes jusqu'à pouvoir être qualifié de "maladie genrée" s'explique à la fois par ce que je viens d'écrire, à savoir le fait que les jeunes femmes s'auto-diagnostiquent (ce qui n'est pas le cas des hommes). Mais aussi, selon moi, c'est la thèse que je soutiens dans mon livre "Mangeuses", parce que des constructions culturelles très anciennes maintiennent les femmes dans un rapport de culpabilité très forte vis-à-vis de la nourriture et du "péché de gourmandise". D'après moi, c'est une longue histoire qui remonte à l'antiquité, qui comporte des ressorts mythologiques, théologiques, sociaux et qui n'a jamais été questionnée au point que l'histoire des représentations des femmes qui mangent continuent, jusqu'à la littérature, le cinéma, les séries, les pubs et la pop culture, d'être les mêmes que dans l'antiquité : une femme qui mange est sexualisée, infantilisée ou perçue comme dangereuse."
+*"Si vous avez repéré des chiffres qui documentent une hausse des troubles des conduites alimentaires en Europe, je pense que cela s'explique notamment par une meilleure connaissance de ces troubles et une capacité des jeunes femmes, surtout à s'auto-diagnostiquer plus facilement qu'auparavant, avec des connaissances plus précises sur la santé mentale et moins de tabou. Ce qui amène les troubles des conduites alimentaires à affecter si souvent les femmes jusqu'à pouvoir être qualifié de "maladie genrée" s'explique à la fois par ce que je viens d'écrire, à savoir le fait que les jeunes femmes s'auto-diagnostiquent (ce qui n'est pas le cas des hommes). Mais aussi, selon moi, c'est la thèse que je soutiens dans mon livre "Mangeuses", parce que des constructions culturelles très anciennes maintiennent les femmes dans un rapport de culpabilité très forte vis-à-vis de la nourriture et du "péché de gourmandise". D'après moi, c'est une longue histoire qui remonte à l'antiquité, qui comporte des ressorts mythologiques, théologiques, sociaux et qui n'a jamais été questionnée au point que l'histoire des représentations des femmes qui mangent continuent, jusqu'à la littérature, le cinéma, les séries, les pubs et la pop culture, d'être les mêmes que dans l'antiquité : une femme qui mange est sexualisée, infantilisée ou perçue comme dangereuse."*
 
 Je me retrouve beaucoup dans son analyse, et peut-être vous aussi. Ma première semaine à l’université, j’ai repéré un garçon autour de moi qui déployait des signes de TCA et qui présentait un état de déni total face à sa situation. Je me suis retrouvée bête à me demander : que faire ? Comment aborder quelqu’un que l’on connaît à peine, évoquer un sujet aussi tabou, aussi dur à admettre, y compris pour soi-même ? Sommes-nous légitimes pour en parler ? Ne sommes-nous pas trop sensibles ?
 
@@ -119,12 +119,12 @@ Alors je me suis tue.
 
 L’éducation et l’accompagnement des victimes sont trop souvent négligés, en particulier en faveur des hommes. Lauren Malka explique:
 
-"Dans mon livre, je donne l'exemple d'un écueil qui me paraît fréquent, lorsque les adultes sont face à une jeune adolescente qui arrête de s'alimenter : lui dire que c'est une mauvaise idée si elle veut plaire aux hommes. Car les hommes "préfèrent avoir un peu de chair à tripoter". Je crois que nous sommes très nombreuses à avoir entendu cette phrase et à avoir senti un mur d'incompréhension de la part des adultes. Lorsque l'on entre dans une expérience anorexique à 12 ou 13 ans, on est souvent motivées (pas toujours bien sûr) par l'envie de refuser de rejoindre la "féminité" telle qu'elle nous est proposée par notre société, c'est à dire une "féminité" "tripotable". Je trouve que cette phrase, qui vient si souvent dans la bouche des adultes bien intentionné.es, est très nocive car elle crée un sentiment d'incommunicabilité que l'on a beaucoup de mal ensuite à réparer."
+*"Dans mon livre, je donne l'exemple d'un écueil qui me paraît fréquent, lorsque les adultes sont face à une jeune adolescente qui arrête de s'alimenter : lui dire que c'est une mauvaise idée si elle veut plaire aux hommes. Car les hommes "préfèrent avoir un peu de chair à tripoter". Je crois que nous sommes très nombreuses à avoir entendu cette phrase et à avoir senti un mur d'incompréhension de la part des adultes. Lorsque l'on entre dans une expérience anorexique à 12 ou 13 ans, on est souvent motivées (pas toujours bien sûr) par l'envie de refuser de rejoindre la "féminité" telle qu'elle nous est proposée par notre société, c'est à dire une "féminité" "tripotable". Je trouve que cette phrase, qui vient si souvent dans la bouche des adultes bien intentionné.es, est très nocive car elle crée un sentiment d'incommunicabilité que l'on a beaucoup de mal ensuite à réparer."*
 
 Alors, existe-t-il une bonne approche ?
 
 
-Troubles du comportement alimentaire et intersectionnalité
+## Troubles du comportement alimentaire et intersectionnalité
 
 Surtout, existe-t-il une approche spécifique en fonction de l’individu et, si oui, sur quels critères ? En m’interrogeant sur ce sujet, j’ai heurté un vide dans la sphère intellectuelle européenne : la question de l’intersectionnalité.
 Théorie développée par la féministe, juriste et professeure d'université américaine Kimberlé Williams Crenshaw, l’intersectionnalité se définit comme : « une grille de lecture permettant de voir où le pouvoir émerge, se heurte, s’entrelace et s’entrecroise. Il ne s’agit pas simplement d’un problème de race d’un côté, de genre de l’autre, ou encore de classe sociale ou de communauté LGBTQ+. Bien souvent, ce cadre d’analyse efface ce qui arrive aux personnes confrontées simultanément à toutes ces oppressions. » En outre, elle souligne la double discrimination du racisme et du sexisme subie par les femmes racisées, critiquant le « cadre d’analyse unidimensionnel dominant dans le droit anti-discrimination, la théorie féministe et la politique antiraciste » en raison de son attention portée aux expériences des membres les plus privilégiés des groupes subordonnés.
