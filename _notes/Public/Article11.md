@@ -6,8 +6,7 @@ date: 25-03-2025
 
 ---
 
-<img src="/assets/img//Users/ezgiyircali/egemen.github.io/assets/img/Screenshot 2025-03-27 at 17.00.36.png" alt="Alt Text" title="Title Here" width="300">
-
+<img src="/assets/img/Screenshot 2025-03-27 at 17.00.36.png" alt="Alt Text" title="Title Here" width="300">
 
 Picture from (‘Femicide nation’: murder of young woman casts spotlight on Mexico’s gender violence crisis)  
 
