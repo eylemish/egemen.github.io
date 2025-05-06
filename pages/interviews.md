@@ -13,4 +13,10 @@ title: Interviews
 
 ---
 
+# The Chair:  Sitting with Everyday Violence
+
+If anything captures it best, before answering the question about a time they felt scared, each woman paused and asked with stupefaction: “Just one?”  
+
+From sexualised name-calling and unwanted touching to flashing, online harassment, sexual assault, and rape- every woman carries a catalogue of experiences. On the street, in the club, at work, in school—no place is immune, and no girl is untouched by the dangers of sexism. In intimate and personal conversation, these young women bravely shared their stories and experiences, revealing the ubiquity of violence which is embedded in our cultures.
+
 <iframe src="https://drive.google.com/file/d/1hORNFbt27_7ysO4Vv6WZAHX9mKJKCHiB/preview" width="640" height="480" allow="autoplay"></iframe>
